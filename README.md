@@ -1,2 +1,2 @@
 # Ashen-Caverns
-This is a repository to gather all the code and things we need for Terra!
+A multiplayer dark fantasy horror game focused on exploration, collecting relics, and surviving haunted caverns.
