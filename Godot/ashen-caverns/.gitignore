@@ -1,0 +1,13 @@
+# Godot generated files
+**/.godot/
+
+# Temporary files
+*.tmp
+*.log
+
+# Exported builds
+builds/
+exports/
+
+# Editor files
+.vscode/
