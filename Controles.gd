@@ -98,10 +98,10 @@ func _Abrir_y_cerrar_mochila
 
           _unhandled_input(event: float) -> void:
 
-	        # Si presionas la tecla "inventario" (por ejemplo, la I)            
+	   
             if Input.is_action_just_pressed("backpack"):
 
-        # Invertimos el valor: si era falso pasa a verdadero, y viceversa
+        
 
             inventario_abierto = not inventario_abierto
 		
